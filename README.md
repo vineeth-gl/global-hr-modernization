@@ -1,6 +1,6 @@
 # ERM Technical & Business Complexity Demo
 
-Miniaturized **Enterprise Risk Management (ERM)** prototype that mirrors a 15+ year hybrid monolith/microservices estate — scaled to **&lt; 5,000 LOC** (vs production ~2.2M).
+Miniaturized **Enterprise Risk Management (ERM)** prototype that mirrors a 15+ year hybrid monolith/microservices estate — scaled to **&lt; 5,000 LOC** .
 
 This demo encodes the technical debt, dual-database reality, integration sprawl, and security posture typical of long-lived enterprise risk platforms acquired and patched over many years.
 
