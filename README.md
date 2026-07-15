@@ -17,6 +17,14 @@ This demo encodes the technical debt, dual-database reality, integration sprawl,
 
 ---
 
+<img width="1880" height="996" alt="image" src="https://github.com/user-attachments/assets/001a48b8-83f1-48cd-9cf0-78a090d1f2fa" />
+
+<img width="1874" height="978" alt="image" src="https://github.com/user-attachments/assets/85fa692e-821b-4286-a10b-7e546d9f562a" />
+
+<img width="1880" height="984" alt="image" src="https://github.com/user-attachments/assets/82ed264f-3116-4c4d-b491-f9289aa468fa" />
+
+---
+
 ## What this project demonstrates
 
 - **9 legacy risk domains** — Operational Risk, Internal Audit, Policy, Compliance, IT/Cyber Risk, Third-Party & Vendor Risk, and more
